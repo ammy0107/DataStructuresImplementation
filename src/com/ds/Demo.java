@@ -18,7 +18,7 @@ public class Demo {
 		//Implement Merge Sort
 		//Implement Quick Sort
 		//Implement Heap Sort
-		
+		   
 		//Write the timecomplexity of all the methods that are available for OOTB collections
 		
 		ArrayList<String> wtr = new ArrayList<String>();
