@@ -8,7 +8,7 @@ public class Utils {
 		Random rd = new Random();
 		
 		for (int i = 0; i < length; i++) {
-			arr[i] = rd.nextInt(500);
+			arr[i] = rd.nextInt(10);
 		}
 	
 		return arr;
