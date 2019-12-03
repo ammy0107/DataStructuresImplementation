@@ -51,4 +51,8 @@ public class BST {
 
 		return false;
 	}
+
+	public void delete(int value) {
+
+	}
 }
